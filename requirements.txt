@@ -1,0 +1,11 @@
+transformers
+torch
+accelerate
+gradio
+openai-whisper
+Pillow
+matplotlib
+bitsandbytes
+gtts
+torchvision
+torchaudio
