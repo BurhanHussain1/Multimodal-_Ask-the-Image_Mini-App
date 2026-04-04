@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.cache/
+.gradio/
+env/
+.venv/
+venv/
+*.pt
+*.pth
+*.bin
